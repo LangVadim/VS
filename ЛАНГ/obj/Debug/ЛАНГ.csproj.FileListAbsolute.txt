@@ -1,0 +1,11 @@
+C:\Users\вадим\source\repos\ЛАНГ\bin\Debug\ЛАНГ.exe.config
+C:\Users\вадим\source\repos\ЛАНГ\bin\Debug\ЛАНГ.exe
+C:\Users\вадим\source\repos\ЛАНГ\bin\Debug\ЛАНГ.pdb
+C:\Users\вадим\source\repos\ЛАНГ\obj\Debug\ЛАНГ.csproj.AssemblyReference.cache
+C:\Users\вадим\source\repos\ЛАНГ\obj\Debug\ЛАНГ.csproj.SuggestedBindingRedirects.cache
+C:\Users\вадим\source\repos\ЛАНГ\obj\Debug\ЛАНГ.Form1.resources
+C:\Users\вадим\source\repos\ЛАНГ\obj\Debug\ЛАНГ.Properties.Resources.resources
+C:\Users\вадим\source\repos\ЛАНГ\obj\Debug\ЛАНГ.csproj.GenerateResource.cache
+C:\Users\вадим\source\repos\ЛАНГ\obj\Debug\ЛАНГ.csproj.CoreCompileInputs.cache
+C:\Users\вадим\source\repos\ЛАНГ\obj\Debug\ЛАНГ.exe
+C:\Users\вадим\source\repos\ЛАНГ\obj\Debug\ЛАНГ.pdb
